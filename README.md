@@ -6,4 +6,4 @@ I have used Equalizer APO on Windows machine to make these speakers sound balanc
 If you happen to want to get these speakers, you can do so on this site:
  - 'https://www.somogyi.hu/Audio/Hangtechnika/Zenekari-es-party-hangdoboz/SAL-PAX-42PRO-zenekari-hangdoboz-400-250-W-titanium-magassugarzo-15-melysugarzo-szinpadi-monitor-funkcio'
 
-If you happen to be able to improve the EQ, you may go ahead and fork it which can help me improve PA speakers for Audiophiles.
+If you happen to be able to improve the EQ, you may go ahead and fork it which can help me improve PA speakers for audiophiles.
