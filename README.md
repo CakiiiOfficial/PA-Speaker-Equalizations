@@ -10,7 +10,7 @@ If you're using a super tweeter on top of the speaker, you might aswell remove 2
 If you happen to be able to improve the EQ or have speakers from other brands that you have made EQ with, you may go ahead and fork or branch it which can help everyone improve PA speakers' sound and lifespan in a long run.
 
 # Why -2dB cut?
-I've done some heavy testing around slight cuts across the entire spectrum (1Hz-20Khz) for PA speakers and found that cutting 2dB is unnoticable (unless you compare it to the original of course) which gives your amplifier some air to breathe so you are less likely to run into distortion issues. You may go ahead and cut -2dB and ask others (assuming they have listened to the same speakers) if it's any different. The only difference can be noticed is that you turned up the volume with the -2dB cut. This is done by default in all EQs that are here in this repository so you are safe.
+I've done some heavy testing around slight cuts across the entire spectrum (1Hz-20Khz) for PA speakers and found that cutting 2dB is unnoticeable (unless you compare it to the original of course) which gives your amplifier some air to breathe so you are less likely to run into distortion issues. You may go ahead and cut -2dB and ask others (assuming they have listened to the same speakers) if it's any different. The only difference can be noticed is that you turned up the volume with the -2dB cut. This is done by default in all EQs that are here in this repository so you are safe.
 
 If you have a subwoofer or super tweeter by any chance and set their reproducible frequencies to 0, expect it to be louder than your tops. You might aswell do it if you like heavy tuning.
 
