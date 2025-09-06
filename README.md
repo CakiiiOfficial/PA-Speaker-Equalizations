@@ -11,3 +11,5 @@ If you happen to be able to improve the EQ or have speakers from other brands th
 
 # Notice
 This EQ database is still ongoing for best practices to improve your PA equipment lifespan while making them more flat sounding.
+
+Models that are available in this repository may have 'README.txt'. It's recommended that you read it for more information about the EQ(s) if you plan on tweaking with EQ on your model.
