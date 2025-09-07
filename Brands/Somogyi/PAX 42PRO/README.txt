@@ -1,4 +1,4 @@
-Note: EQs for this speaker contain 60-100Hz attenuation to make bass-midbass transitions smoother. This benefits you and the speaker.
+Note: EQs for this speaker contain 60-125Hz attenuation to make bass-midbass transitions smoother. This benefits you and the speaker.
 It's recommended to get a sub if you want deeper or louder bass.
 
 
