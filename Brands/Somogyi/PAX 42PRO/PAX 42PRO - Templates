@@ -1,6 +1,9 @@
 # This is Peaking filter which is used to quietten down the tweeter. This can be used if you don't want to modify the EQ directly. Why offer this? For user convenience.
 Filter: ON PK Fc 20000 Hz Gain 0 dB BW Oct 1.75
 
+# This is High-Shelf filter which is also used to quietten down the tweeter. Similar reasons as above. This may have less treble detail compared to Peaking Filter but will be less harsh.
+Filter: ON HS Fc 1000 Hz Gain 0 dB
+
 # These are 4 templates which attempt to keep factory voicing but also to prolong speaker's life and allow YOU to modify these as you please. Keep in mind that each EQ is blocking unusable frequencies on this model.
 
 # Copy this if you want to block only unusable frequencies.
