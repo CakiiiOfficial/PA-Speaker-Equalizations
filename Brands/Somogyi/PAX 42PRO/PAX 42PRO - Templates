@@ -21,5 +21,8 @@ Filter: ON PK Fc 20000 Hz Gain 0 dB BW Oct 1.75
 # This is High-Shelf filter which is also used to quietten down the tweeter. Similar reasons as above. This may yield less treble detail compared to Peaking Filter but will be less harsh.
 Filter: ON HS Fc 900 Hz Gain 0 dB
 
-# This is mostly preserving full range sound while preventing your woofer from killing itself.
+# This is if you want only short cutoff.
+GraphicEQ: 40 -1000; 50 0
+
+# This is mostly preserving "full" range sound while preventing your woofer from killing itself.
 GraphicEQ: 59 -1000; 60 0
