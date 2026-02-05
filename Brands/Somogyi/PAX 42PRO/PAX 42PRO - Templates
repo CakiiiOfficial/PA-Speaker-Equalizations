@@ -1,10 +1,10 @@
 # These are 2 templates which attempt to keep factory voicing but also prolong speaker's life and allow YOU to modify these as you please. Keep in mind that each EQ is blocking unusable frequencies on this model.
 
 # Copy this if you want to block only unusable frequencies.
-GraphicEQ: 40 -1000; 50 -4
+GraphicEQ: 40 -1000; 50 -4; 63 0
 
 # Copy this if you want slightly weaker bass if at louder volumes it's too much.
-GraphicEQ: 40 -1000; 50 -4; 63 -4; 80 -2; 125 -2
+GraphicEQ: 40 -1000; 50 -4; 63 -4; 80 -2; 125 -2; 160 0
 
 
 # These are 2 additional filters if you plan on using this model for more than just home listening, like backyard parties.
