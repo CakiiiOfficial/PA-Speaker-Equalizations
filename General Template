@@ -1,0 +1,4 @@
+# You may block everything under 25Hz, you're likely not gonna miss anything.
+GraphicEQ: 20 -1000; 25 0
+
+# More templates will appear over time.
