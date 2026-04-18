@@ -7,7 +7,7 @@ GraphicEQ: 40 -1000; 50 -4; 63 0
 GraphicEQ: 40 -1000; 50 -4; 63 -4; 80 -2; 125 -2; 160 0
 
 # Copy this if you want sub / infra frequencies to have similar excursion to higher frequencies. For example, 20Hz and 40Hz may have pretty similar excursion at all gain levels. Useful if you don't have sub with you but you have this model.
-GraphicEQ: 20 -18; 25 -16; 31.5 -14; 40 -3; 50 0
+GraphicEQ: 20 -18; 25 -18; 31.5 -14; 40 -3; 50 0
 
 # These are 2 additional filters if you plan on using this model for more than just home listening, like backyard parties.
 
